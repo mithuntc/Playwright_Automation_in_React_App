@@ -24,3 +24,34 @@ This will open the browser during test execution(Right now Chromium is enabled f
 **npx playwright show-report**
 
 
+✅ Features Covered in This Repository
+This automation test suite using Playwright includes the following features:
+
+🔐 Login Functionality
+Valid Login scenario
+
+Invalid Login scenario (with proper assertions)
+
+👥 User CRUD Operations
+Add a new user
+
+Highlight newly created user
+
+Update user information (highlight the updated row)
+
+Delete a user
+
+🖼️ Visual Testing
+Visual testing integrated using Playwright’s screenshot comparison
+
+Screenshots saved for:
+
+UI state after user creation
+
+UI state after user update
+
+Errors (if any)
+
+All tests are implemented in Playwright with JavaScript and run on localhost.
+
+
