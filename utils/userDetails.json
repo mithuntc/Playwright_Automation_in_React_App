@@ -1,0 +1,14 @@
+{
+  "createUser": {
+    "user_name": "Kevin Williamson",
+    "first_name": "William Hard",
+    "last_name": "Micheal",
+    "email_id": "kevin.williams@winter.com"
+  },
+  "updateUser": {
+    "user_name": "Midhun Micheal",
+    "first_name": "Micheal Thomas",
+    "last_name": "Micheal Arya",
+    "email_id": "midhun.micheal@interarea.com"
+  }
+}
