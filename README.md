@@ -20,4 +20,7 @@ npx playwright test
 npx playwright test --headed
 This will open the browser during test execution(Right now Chromium is enabled for Testing).
 
+📊 View HTML Test Report
+npx playwright show-report
+
 
