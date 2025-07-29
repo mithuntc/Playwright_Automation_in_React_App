@@ -52,6 +52,8 @@ UI state after user update
 
 Errors (if any)
 
+--------------------------------------------------------------------------------
+Within the project, I created a reusable JSON file called userDetails.json. By editing this file, we can update or add user names as needed. The application automatically picks up the changes from the JSON file and reflects them in the UI accordingly.
 ---------------------------------------------------------------------------------
 **Sample Screenshots**
 
