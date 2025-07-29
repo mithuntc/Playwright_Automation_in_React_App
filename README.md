@@ -52,6 +52,17 @@ UI state after user update
 
 Errors (if any)
 
+---------------------------------------------------------------------------------
+**Sample Screenshots**
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1f0bd818-4264-46b7-9d0a-8b1d331ecced" />
+
+<img width="1265" height="1134" alt="image" src="https://github.com/user-attachments/assets/94e4ed20-66e2-43ee-94b6-6ef1cf7f5e59" />
+
+<img width="1265" height="1134" alt="image" src="https://github.com/user-attachments/assets/12e98c83-d20c-4847-b885-574ccd44611a" />
+
+---------------------------------------------------------------------------------
+
 All tests are implemented in Playwright with JavaScript and run on localhost.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Important for Next Task For API Test Automation (Node.js Backend)**
